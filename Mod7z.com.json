@@ -1,0 +1,16 @@
+{
+"Update_Version" : "1.3",
+"Update_Message" : "New update Realese on YouTube",
+"Update_Url" : "https://link-download.pro/Mod7z",
+
+"Dialog_Info" : "true",
+"Dialog_Message" : "รองรับเวอร์ชั่น ff & ffmax 80.6 \nวันที่อัพเดท 16/04/2022\n\n[ ติดตาม Noob7z เพื่อใช้งาน ]",
+"Dialog_Button" : "ok",
+"Dialog_Url" : "https://youtube.com/channel/UC5PUz3sbKR0iWzQ9P3JJ2nw",
+"Dialog_Action" : "true",
+"Layout_Message" : "อัพเดท FF & FFMAX version 1.81.6 & 2.80.6 ติดตาม Noob7z ด้วยนะครับ",
+"TextView" : "Semi HS (ล็อคหัว + ล็อคตัว)",
+"Data" : "80.6",
+"Tutorial" : "true",
+"Tutorial_Url" : "https://youtube.com/channel/UCr88SiB4SDQhDJZqQm-FV_Q"
+}
